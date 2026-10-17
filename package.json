@@ -1,12 +1,9 @@
 {
-  "name": "pixelcut-web",
+  "name": "hd-upscaler-ningen",
   "version": "1.0.0",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
+  "private": true,
   "dependencies": {
     "axios": "^1.7.0",
-    "express": "^4.21.0",
-    "form-data": "^4.0.0",
-    "multer": "^1.4.5-lts.1"
+    "form-data": "^4.0.0"
   }
 }
